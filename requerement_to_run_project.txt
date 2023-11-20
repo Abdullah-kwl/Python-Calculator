@@ -1,0 +1,3 @@
+dist\calculator\calculator.exe
+
+run this file 
